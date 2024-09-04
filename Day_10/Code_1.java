@@ -1,6 +1,6 @@
 // Is First vowel??
 // Write a program to input a name and check if the first letter of the name is a vowel or not. Note check for both upper case and lower case.
-
+//what
 // Input format
 // The First line contains a name
 // Output format
