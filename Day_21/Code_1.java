@@ -1,4 +1,4 @@
-// Divisibility Test
+// Divisibility Tests
 // Write a program that takes a number n and print how many numbers from 1 to 10 can divide it.
 
 // Input Format
