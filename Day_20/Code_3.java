@@ -1,6 +1,6 @@
 // AverageCalc
 // Given the marks of N students, your task is to calculate the average of the marks obtained.
-
+//change
 // note- you just have to complete the function calculateAvg and return the result
 
 // Input Format
