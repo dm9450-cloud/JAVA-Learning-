@@ -1,3 +1,4 @@
+//WAP
 // Valid Triangle
 // Mohan works in a Bikaner Sweet shop and he is making triangular shape sweets.
 
