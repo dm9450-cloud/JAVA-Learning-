@@ -1,3 +1,4 @@
+//WAP
 // Multiplication
 // Write a Java program to multiply two numbers.
 
