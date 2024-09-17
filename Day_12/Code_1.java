@@ -1,3 +1,4 @@
+//Wap
 // Floyds Triangle
 // Take input of N from the user and write a program to print the Floyd's Triangle pattern as follows:
 
