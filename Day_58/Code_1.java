@@ -1,3 +1,4 @@
+//WAP
 // Calculate nPr
 // Given 2 numbers n and r. Your task is to calculate nPr n!/(n-r)!.
 
